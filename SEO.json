@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "dairy-farm-management-software",
+  "description": "Dairy Farm Management Software — Agriculture Laravel Filament ERP/SaaS for Bangladesh (Sirajganj). Dairy management for animal records, milk collection, fat/SNF tests, and chilling center payouts. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "agriculture",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/dairy-farm-management-software"
+}
